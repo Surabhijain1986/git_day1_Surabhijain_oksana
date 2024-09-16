@@ -1,3 +1,4 @@
 collaborator adds a new line of text
 My team mate did somme changes
 Another changes
+Something is changed by Team 1
